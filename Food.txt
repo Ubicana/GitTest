@@ -1,2 +1,4 @@
 KFC
 MCD
+Pizzahut
+Sushi
