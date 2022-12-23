@@ -1,7 +1,11 @@
 KFC
 MCD
+<<<<<<< HEAD
 Pizzahut
 Sushi
 Banana
 Apple
 Cake
+=======
+Rice
+>>>>>>> NEW
